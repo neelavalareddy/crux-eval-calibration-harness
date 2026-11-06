@@ -1,0 +1,1165 @@
+{
+  "T001": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E3": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    }
+  },
+  "T002": {
+    "E1": {
+      "accuracy": 1,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 1,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 2
+    }
+  },
+  "T003": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 0
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 0
+    }
+  },
+  "T004": {
+    "E1": {
+      "accuracy": 0,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    },
+    "E2": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 0
+    },
+    "E3": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    }
+  },
+  "T005": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E3": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    }
+  },
+  "T006": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E3": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    }
+  },
+  "T007": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    }
+  },
+  "T008": {
+    "E1": {
+      "accuracy": 1,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    },
+    "E2": {
+      "accuracy": 1,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    }
+  },
+  "T009": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 0
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 0
+    }
+  },
+  "T010": {
+    "E1": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    },
+    "E2": {
+      "accuracy": 0,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 0
+    },
+    "E3": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 2
+    }
+  },
+  "T011": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 0,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 0,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E3": {
+      "accuracy": 2,
+      "completeness": 0,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    }
+  },
+  "T012": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E3": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 1,
+      "tone": 2
+    }
+  },
+  "T013": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 0
+    }
+  },
+  "T014": {
+    "E1": {
+      "accuracy": 1,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    },
+    "E2": {
+      "accuracy": 1,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 2
+    },
+    "E3": {
+      "accuracy": 1,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 2
+    }
+  },
+  "T015": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 1
+    }
+  },
+  "T016": {
+    "E1": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    },
+    "E2": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    }
+  },
+  "T017": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 0,
+      "escalation_judgment": 2,
+      "policy_adherence": 1,
+      "tone": 0
+    },
+    "E3": {
+      "accuracy": 2,
+      "completeness": 0,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    }
+  },
+  "T018": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    }
+  },
+  "T019": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E3": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    }
+  },
+  "T020": {
+    "E1": {
+      "accuracy": 1,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 1,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    }
+  },
+  "T021": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 2
+    }
+  },
+  "T022": {
+    "E1": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    }
+  },
+  "T023": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 0,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 0,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    }
+  },
+  "T024": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    }
+  },
+  "T025": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 0
+    }
+  },
+  "T026": {
+    "E1": {
+      "accuracy": 1,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    },
+    "E2": {
+      "accuracy": 1,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    },
+    "E3": {
+      "accuracy": 1,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 2
+    }
+  },
+  "T027": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 0
+    }
+  },
+  "T028": {
+    "E1": {
+      "accuracy": 0,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 0
+    },
+    "E2": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    },
+    "E3": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 2
+    }
+  },
+  "T029": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E3": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    }
+  },
+  "T030": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E3": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    }
+  },
+  "T031": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    }
+  },
+  "T032": {
+    "E1": {
+      "accuracy": 1,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 0
+    },
+    "E2": {
+      "accuracy": 1,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 0
+    }
+  },
+  "T033": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E3": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 2
+    }
+  },
+  "T034": {
+    "E1": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    },
+    "E2": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    }
+  },
+  "T035": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 0,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 0,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    }
+  },
+  "T036": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E3": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    }
+  },
+  "T037": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E3": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    }
+  },
+  "T038": {
+    "E1": {
+      "accuracy": 1,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    },
+    "E2": {
+      "accuracy": 1,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 0
+    },
+    "E3": {
+      "accuracy": 1,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    }
+  },
+  "T039": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 0
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 0
+    }
+  },
+  "T040": {
+    "E1": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 2
+    },
+    "E3": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 2
+    }
+  },
+  "T041": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    }
+  },
+  "T042": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E3": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    }
+  },
+  "T043": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 1,
+      "tone": 1
+    },
+    "E3": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    }
+  },
+  "T044": {
+    "E1": {
+      "accuracy": 1,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 1,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    }
+  },
+  "T045": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E3": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 2
+    }
+  },
+  "T046": {
+    "E1": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    },
+    "E2": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    },
+    "E3": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 1,
+      "tone": 2
+    }
+  },
+  "T047": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    }
+  },
+  "T048": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    }
+  },
+  "T049": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    }
+  },
+  "T050": {
+    "E1": {
+      "accuracy": 1,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 1,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 2
+    }
+  },
+  "T051": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E3": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 0,
+      "policy_adherence": 1,
+      "tone": 2
+    }
+  },
+  "T052": {
+    "E1": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 0
+    },
+    "E2": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 0
+    }
+  },
+  "T053": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E3": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    }
+  },
+  "T054": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E3": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    }
+  },
+  "T055": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E3": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    }
+  },
+  "T056": {
+    "E1": {
+      "accuracy": 1,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 1,
+      "tone": 0
+    },
+    "E2": {
+      "accuracy": 0,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 0
+    }
+  },
+  "T057": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E3": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 0,
+      "policy_adherence": 2,
+      "tone": 2
+    }
+  },
+  "T058": {
+    "E1": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    },
+    "E2": {
+      "accuracy": 0,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 0,
+      "tone": 1
+    }
+  },
+  "T059": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 1,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 0,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 1
+    }
+  },
+  "T060": {
+    "E1": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E2": {
+      "accuracy": 2,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    },
+    "E3": {
+      "accuracy": 1,
+      "completeness": 2,
+      "escalation_judgment": 2,
+      "policy_adherence": 2,
+      "tone": 2
+    }
+  }
+}

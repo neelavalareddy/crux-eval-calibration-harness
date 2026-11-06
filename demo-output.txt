@@ -1,0 +1,4 @@
+SYNTHETIC DATA. traces=60 labelled=60
+judge-vs-expert mean kappa=0.703 agreement=0.852
+expert-vs-expert mean kappa=0.690 agreement=0.836
+wrote sample_report.md, data/synthetic_traces.json, data/synthetic_expert_labels.json

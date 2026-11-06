@@ -1,0 +1,28 @@
+test_corrupt_only_target_criterion (test_harness.DatasetDriftReportTests) ... ok
+test_dataset_deterministic_and_marked (test_harness.DatasetDriftReportTests) ... ok
+test_harness_deterministic_and_report (test_harness.DatasetDriftReportTests) ... ok
+test_rank_by_drop (test_harness.DatasetDriftReportTests) ... ok
+test_chance_level_zero_or_negative (test_harness.KappaTests) ... ok
+test_judge_and_expert_grouping (test_harness.KappaTests) ... ok
+test_known_value (test_harness.KappaTests) ... ok
+test_length_mismatch (test_harness.KappaTests) ... ok
+test_percent_agreement (test_harness.KappaTests) ... ok
+test_perfect_and_constant (test_harness.KappaTests) ... ok
+test_completeness_levels (test_harness.RubricTests) ... ok
+test_extract_claims (test_harness.RubricTests) ... ok
+test_missed_escalation_scores_zero (test_harness.RubricTests) ... ok
+test_perfect_response (test_harness.RubricTests) ... ok
+test_tone_levels (test_harness.RubricTests) ... ok
+test_wrong_claim_and_promise (test_harness.RubricTests) ... ok
+test_escalation_required_and_done (test_harness.RulesTests) ... ok
+test_escalation_required_and_missing (test_harness.RulesTests) ... ok
+test_policy_citation_unknown_id_not_counted (test_harness.RulesTests) ... ok
+test_promise_detected (test_harness.RulesTests) ... ok
+test_unknown_tool_fails (test_harness.RulesTests) ... ok
+
+----------------------------------------------------------------------
+Ran 21 tests in 0.034s
+
+OK
+
+TEST_EXIT_CODE=0
